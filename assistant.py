@@ -1,3 +1,12 @@
+# File: assistant.py
+# Description: Module for GUI_in_Python.py
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+
+
 import os
 import psutil
 import shutil
