@@ -6,7 +6,7 @@ Graphic representation of program in Python
 
 ## Description
 Using PyCharm as IDE for Python here is the program which shows how to create program with _GUI_.
-Program implements the game.
+Program implements the simple game.
 
 ## GUI in Python
 ![Result](images/GUI_in_Python.png)
