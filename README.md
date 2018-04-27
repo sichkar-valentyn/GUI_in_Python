@@ -15,4 +15,4 @@ Program implements the simple game.
 ## Copyright (c) 2017 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
 ### Reference to:
-[1] Valentyn N Sichkar. Graphic representation of program in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/GUI_in_Python (date of access: XX.XX.XXXX)
+[1] Valentyn N Sichkar. Graphic representation of program in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/GUI_in_Python (date of access: XX.XX.XXXX) 
