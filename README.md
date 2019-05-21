@@ -1,6 +1,9 @@
 # GUI in Python
 Graphic representation of program with GUI in Python
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Graphic representation of program in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/GUI_in_Python (date of access: XX.XX.XXXX)
 
